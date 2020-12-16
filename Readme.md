@@ -70,4 +70,4 @@ public override double calculate(double originPrice)
             return originPrice - discNominal;
         }
 ```
-Kode di atas digunakan untuk menghitung nilai total kupon dengaN cashback.
+Kode di atas digunakan untuk menghitung nilai total kupon dengan cashback.
